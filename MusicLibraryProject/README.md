@@ -3,3 +3,5 @@ Webpage of a music library database using PHP, HTML and CSS, with SQL and XAMPP:
 The website is in Hungarian language, and the PDF file was written in Hungarian.
 
 Note: the variable types underlined with red lines should be the same type, else some bugs can appear. I fixed this later in the database.
+![image](https://user-images.githubusercontent.com/82604073/236276496-20d32223-6197-4881-ba13-12cf701c175e.png)
+
